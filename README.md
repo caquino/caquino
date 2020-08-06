@@ -15,6 +15,7 @@
 [<img align="left" alt="syshero.org" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 ## 📨 Latest posts:
 <!-- BLOG-POST-LIST:START -->
 - [NGINX - CORS with a single if](https://syshero.org/2019-09-20-cors-and-ifisevil/)
