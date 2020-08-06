@@ -35,4 +35,4 @@
 [website]: https://syshero.org
 [twitter]: https://twitter.com/syshero
 [linkedin]: https://linkedin.com/in/cassianoaquino
-[pronounce]: https://www.youtube.com/watch?v=wG18KXUwH2U
+[pronounce]: https://forvo.com/word/cassiano/
