@@ -1,4 +1,4 @@
-### Hi, welcome to my GitHub profile, I'm Cassiano!
+### Hi, welcome to my GitHub profile, I'm [Cassiano][pronounce]!
 
 ## About me
 - 🔬 Always trying to learn new things
@@ -30,3 +30,4 @@
 [website]: https://syshero.org
 [twitter]: https://twitter.com/syshero
 [linkedin]: https://linkedin.com/in/cassianoaquino
+[pronounce]: https://www.youtube.com/watch?v=wG18KXUwH2U
