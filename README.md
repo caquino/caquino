@@ -9,14 +9,10 @@
 - 📻 My callsign is EI5HPB
 - 🪂 I need to lose all the weight I put after moving out of my home country to get back to skydiving
 
-<br />
-
 ## 🖖Connect with me:
 [<img align="left" alt="syshero.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="syshero.org" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="syshero.org" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ## 📨 Latest posts:
 <!-- BLOG-POST-LIST:START -->
