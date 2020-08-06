@@ -18,6 +18,11 @@
 
 ## Latest posts:
 <!-- BLOG-POST-LIST:START -->
+- [NGINX - CORS with a single if](https://syshero.org/2019-09-20-cors-and-ifisevil/)
+- [DNS Round Robin, Consul and Java](https://syshero.org/2018-04-26-dns-round-robin-consul-and-java/)
+- [NGINX+ - Replicated Key-Value Store](https://syshero.org/2018-04-24-nginx-replicated-key-value-store/)
+- [NGINX+ Automatic PURGE when content is changed](https://syshero.org/2018-04-17-nginx-automatic-purge-when-content-is-changed/)
+- [NGINX - Unique Request Identifier](https://syshero.org/2018-04-13-nginx-unique-request-identifier/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
