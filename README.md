@@ -13,6 +13,7 @@
 [<img align="left" alt="syshero.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="syshero.org" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="syshero.org" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a rel="me" href="[mastodon]">[mastodon]</a>
 
 <br />
 
@@ -38,4 +39,4 @@
 [twitter]: https://twitter.com/syshero
 [linkedin]: https://linkedin.com/in/cassianoaquino
 [pronounce]: https://forvo.com/word/cassiano/
-[mastodon]: <a rel="me" href="https://mastodon.social/@syshero">https://mastodon.social/@syshero</a>
+[mastodon]: https://mastodon.social/@syshero
