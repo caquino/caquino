@@ -38,3 +38,4 @@
 [twitter]: https://twitter.com/syshero
 [linkedin]: https://linkedin.com/in/cassianoaquino
 [pronounce]: https://forvo.com/word/cassiano/
+[mastodon]: <a rel="me" href="https://mastodon.social/@syshero">https://mastodon.social/@syshero</a>
